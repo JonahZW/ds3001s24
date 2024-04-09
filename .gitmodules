@@ -1,3 +1,6 @@
 [submodule "project_gss"]
 	path = project_gss
 	url = https://github.com/tiffanybuii/project_gss
+[submodule "project_chd"]
+	path = project_chd
+	url = https://github.com/kevindangkhoama/project_chd.git
